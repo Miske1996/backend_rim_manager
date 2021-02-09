@@ -1,1 +1,1 @@
-web: gunicorn front_dj.wsgi --log-file -
+web: gunicorn front_dj.asgi --log-file -
