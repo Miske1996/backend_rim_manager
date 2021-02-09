@@ -25,7 +25,7 @@ SECRET_KEY = '-z9my!=*&7mnzw2aitroq-yqle!p4obra0u1z*+lyzd+t=qzdf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['demo-rim-manager.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['']
 
 # Application definition
 
